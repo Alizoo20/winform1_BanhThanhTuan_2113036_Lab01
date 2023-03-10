@@ -1,0 +1,13 @@
+D:\BaiTap_BanhThanhTuan_Lab\BaiTap_BanhThanhTuan_Lab\bin\Debug\BaiTap_BanhThanhTuan_Lab.exe.config
+D:\BaiTap_BanhThanhTuan_Lab\BaiTap_BanhThanhTuan_Lab\bin\Debug\BaiTap_BanhThanhTuan_Lab.exe
+D:\BaiTap_BanhThanhTuan_Lab\BaiTap_BanhThanhTuan_Lab\bin\Debug\BaiTap_BanhThanhTuan_Lab.pdb
+D:\BaiTap_BanhThanhTuan_Lab\BaiTap_BanhThanhTuan_Lab\obj\Debug\BaiTap_BanhThanhTuan_Lab.csproj.AssemblyReference.cache
+D:\BaiTap_BanhThanhTuan_Lab\BaiTap_BanhThanhTuan_Lab\obj\Debug\BaiTap_BanhThanhTuan_Lab.Form1.resources
+D:\BaiTap_BanhThanhTuan_Lab\BaiTap_BanhThanhTuan_Lab\obj\Debug\BaiTap_BanhThanhTuan_Lab.frmbai1.resources
+D:\BaiTap_BanhThanhTuan_Lab\BaiTap_BanhThanhTuan_Lab\obj\Debug\BaiTap_BanhThanhTuan_Lab.Properties.Resources.resources
+D:\BaiTap_BanhThanhTuan_Lab\BaiTap_BanhThanhTuan_Lab\obj\Debug\BaiTap_BanhThanhTuan_Lab.csproj.GenerateResource.cache
+D:\BaiTap_BanhThanhTuan_Lab\BaiTap_BanhThanhTuan_Lab\obj\Debug\BaiTap_BanhThanhTuan_Lab.csproj.CoreCompileInputs.cache
+D:\BaiTap_BanhThanhTuan_Lab\BaiTap_BanhThanhTuan_Lab\obj\Debug\BaiTap_BanhThanhTuan_Lab.exe
+D:\BaiTap_BanhThanhTuan_Lab\BaiTap_BanhThanhTuan_Lab\obj\Debug\BaiTap_BanhThanhTuan_Lab.pdb
+D:\BaiTap_BanhThanhTuan_Lab\BaiTap_BanhThanhTuan_Lab\obj\Debug\BaiTap_BanhThanhTuan_Lab.frmbai2.resources
+D:\BaiTap_BanhThanhTuan_Lab\BaiTap_BanhThanhTuan_Lab\obj\Debug\BaiTap_BanhThanhTuan_Lab.frmbabi3.resources
